@@ -1,8 +1,9 @@
 # CSE330
 
+Rajat Nepal / 490732 / RajatNepal
+
 Anton Dmitriev / 485865 / AntonDmitriev1484
 
-Rajat Nepal / 490732 / RajatNepal
 
 Still need to do:
 
